@@ -63,9 +63,32 @@ Then, perform block coding and execute it to see the ADDI blocks operate in real
 
 ![3](https://github.com/multi-sensor/CREAMO_Team_A/assets/90318181/a033b2ec-726b-4f74-8a86-be7c1fac25b4)
 
-
-
 <br/>
+** Connection Block**
+<br/>
+When the user drags and drops Connection Block 1, Connection Block 2 is automatically created below it. Even if these two blocks appear separate on the screen, the server recognizes them as connected.<br/><br/>
+
+** Repeat Block**
+<br/>
+The blocks following the Repeat Block are repeated on the server according to the number specified in the Repeat Count Block located at the end of the loop.
+<br/><br/>
+** Speaker Block**
+<br/>
+When the user executes the Speaker Block and the Speaker On Block, sound is produced from the actual block.
+<br/><br/>
+** Motor Block**
+<br/>
+When the user executes the Motor Block and the Direction Block, the actual block moves.
+<br/><br/>
+** Led Block**
+<br/>
+When the user executes the LED Block and the Color Block, the actual block lights up.
+<br/><br/>
+** Image Block**
+<br/>
+When the user executes the Image Block, a specific shape appears on the actual block.
+
+
 <h1> 📑Flow Chart </h1>
 <hr/>
 
