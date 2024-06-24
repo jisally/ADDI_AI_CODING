@@ -80,7 +80,7 @@ When the user executes the Speaker Block and the Speaker On Block, sound is prod
 <br/>
 When the user executes the Motor Block and the Direction Block, the actual block moves.
 <br/><br/>
-** Led Block**
+** LED Block**
 <br/>
 When the user executes the LED Block and the Color Block, the actual block lights up.
 <br/><br/>
