@@ -50,7 +50,13 @@ Then, perform block coding and execute it to see the ADDI blocks operate in real
 <br/>
 <h2>CONTENT PAGE</h2>
 
-![image](https://github.com/multi-sensor/CREAMO_Team_A/assets/83489449/c19c1d02-67e3-41a3-bf8c-326120d1b541)
+![image](https://github.com/multi-sensor/CREAMO_Team_A/assets/83489449/d666c85f-9055-41e9-aacb-c7045a1ca730)
+
+
+<br/>
+<h2>HINT PAGE</h2>
+
+![3](https://github.com/multi-sensor/CREAMO_Team_A/assets/83489449/675c4f8f-ce35-4123-86bd-cf90fe6bb71d )
 
 <br/>
 <h2>PUZZLE PAGE</h2>
